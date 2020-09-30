@@ -25,11 +25,11 @@ The application gives yout the following options:
 2. Use a RESTful like the Insomnia
 3. There are muiltiple modules to use.
 
-    ![](images/sample.png)
+    ![](images/1.png)
 
 5. Testing unstructured data.
 
-    ![](images/menu.png)
+    ![](images/2.png)
 
 ## Tool & Resources
 ---
